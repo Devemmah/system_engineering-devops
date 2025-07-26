@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays all processes containing the word bash (including their PIDs)
+ps aux | grep '[b]ash'
